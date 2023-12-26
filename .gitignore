@@ -1,0 +1,13 @@
+.DS_Store
+.coverage
+MANIFEST
+.idea
+*.pyc
+
+/.cache/
+/.idea/
+/build/
+/dist/
+/env/
+
+*.egg-info/
